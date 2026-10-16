@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Task5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -22,7 +21,6 @@ public class Task5 {
         } else {
             System.out.println("The largest number is: " + num3);
         }
-
         scanner.close();
     }
 }
