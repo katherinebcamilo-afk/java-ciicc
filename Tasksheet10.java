@@ -12,7 +12,7 @@
     }
 }
 
-public class Tasksheet10 {
+public class Task10 {
     public static void main(String[] args) {
         Student[] students = new Student[] {
             new Student("Morgan", "Freeman"),
